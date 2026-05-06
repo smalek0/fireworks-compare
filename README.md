@@ -1,5 +1,7 @@
 # Fireworks Model Compare
 
+**Live demo:** <https://fireworks-compare.vercel.app>
+
 A side-by-side performance and cost comparison tool for Fireworks-hosted LLMs. Built so an account exec could hand it to a prospect and let them poke at real models with their own prompts before deciding which to deploy.
 
 ## What it is
@@ -11,7 +13,9 @@ A side-by-side performance and cost comparison tool for Fireworks-hosted LLMs. B
 
 ## Demo
 
-Run locally — see below. (Screenshot/Loom would go here in a polished submission.)
+Live at <https://fireworks-compare.vercel.app>. Pick two models, hit a preset, click **Run**.
+
+Try the **Customer Support** preset with MiniMax M2.7 vs Kimi K2.5 to see the cost-verdict and quality-judge disagree — Kimi wins on price and speed, MiniMax wins on the actual answer.
 
 ## Run locally
 
